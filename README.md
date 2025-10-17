@@ -26,7 +26,7 @@ This project simulates an Arduino-based instrumentation system that measures and
 - Simulation of real-world embedded system behavior
 
 ## 🧩 Simulation Link
-[Tinkercad Project Link]([YOUR_LINK_HERE](https://www.tinkercad.com/things/lbUgksHqRy9-temperature-and-humidity-monitoring-system-with-kalman-filtering?sharecode=xvusei1U_S84yZDGYI4ZSp1HwLq14AfvHwRIXmo6sfg))
+[Tinkercad Project Link](https://www.tinkercad.com/things/lbUgksHqRy9-temperature-and-humidity-monitoring-system-with-kalman-filtering?sharecode=xvusei1U_S84yZDGYI4ZSp1HwLq14AfvHwRIXmo6sfg)
 
 ---
 
