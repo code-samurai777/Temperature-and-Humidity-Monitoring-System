@@ -1,9 +1,6 @@
-# Temperature-and-Humidity-Monitoring-System
-Simulated Arduino-based temperature &amp; humidity monitoring system on Tinkercad using two potentiometers as a replacement of DHT11 sensor and data smoothing filter.
+# Temperature and Humidity Monitoring System
 
-# Temperature and Humidity Monitoring System (Simulation)
-
-This project simulates an Arduino-based instrumentation system that measures and displays temperature and humidity using a TMP36 sensor and two potentiometers and LCD. A moving average filter is applied to smooth noisy data, and readings are visualized manually in Excel.
+This project simulates an Arduino-based instrumentation system that measures and displays temperature and humidity using a TMP36 sensor and two potentiometers and LCD. A moving average filter is applied to smooth noisy data, and readings are visualized manually in Excel. This project is simulated on Tinkercad.
 
 ## 🔧 Components Used
 - Arduino UNO (simulated)
