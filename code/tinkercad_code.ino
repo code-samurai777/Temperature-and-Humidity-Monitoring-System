@@ -96,6 +96,6 @@ void loop() {
   Serial.print(" C, Smoothed Hum: ");
   Serial.print(humidity);
   Serial.println(" %");
-  
+
   delay(100); 
 }
