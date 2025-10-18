@@ -47,17 +47,24 @@
 ---
 
 ## Circuit Diagram
-Schematic for the project can be accessed [here](#) <!-- Replace with your schematic link later -->
+Schematic for the project : 
+![Schematic](assets/schematic.pdf)
+
+## Plots
+Table plot :
+![Table Plot](assets/table_plot.png)
+
+Graph plot :
+![Graph Plot](assets/graph_plot.png)
 
 ---
 
 ## Demo / Screenshots
 **Simulation images and video:**  
-*Place images/screenshots here after uploading to GitHub.*
 
-- Circuit view(with result): `circuit_diagram.png`  
-- Simulation Demo: `simulation_demo.mp4`
-
+- ![Circuit View(with result)](assets/hero_image.png)
+- [Watch Simulation Demo](assets/temp&hum.mov)
+  
 ---
 
 ## Code Explanation
