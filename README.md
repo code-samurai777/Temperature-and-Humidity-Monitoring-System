@@ -51,7 +51,7 @@
 
 ## Circuit Diagram
 Schematic for the project : 
-![Schematic](assets/Schematic.png)
+![Schematic](assets/schematic.png)
 
 ---
 
