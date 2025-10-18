@@ -11,12 +11,13 @@
 2. [Features](#features)
 3. [Components Used](#components-used)
 4. [Circuit Diagram](#circuit-diagram)
-5. [Demo / Screenshots](#demo--screenshots)
-6. [Code Explanation](#code-explanation)
-7. [How It Works](#how-it-works)
-8. [Simulation](#simulation)
-9. [Data Visualization](#data-visualization)
-10. [Author](#author)
+5. [Plots](#plots)
+6. [Demo / Screenshots](#demo--screenshots)
+7. [Code Explanation](#code-explanation)
+8. [How It Works](#how-it-works)
+9. [Simulation](#simulation)
+10. [Data Visualization](#data-visualization)
+11. [Author](#author)
 
 ---
 
@@ -50,7 +51,9 @@
 
 ## Circuit Diagram
 Schematic for the project : 
-![Schematic](assets/Schematic.pdf)
+![Schematic](assets/Schematic.png)
+
+---
 
 ## Plots
 Table plot :
