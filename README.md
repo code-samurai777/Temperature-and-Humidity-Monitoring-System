@@ -25,6 +25,8 @@
 **Temperature and Humidity Monitoring System** is an Arduino-based project designed to measure and display temperature and humidity in real-time. A moving average filter is applied to smooth out the sensor noise, and data is visualized manually in Excel for further analysis.  
 *Short description:* An Arduino-based temperature and humidity monitoring system with data filtering and visualization.
 
+Skills: Embedded Systems, Instrumentation, Arduino Programming, Sensor Interfacing, Data Acquisition, Signal Filtering, Data Visualization, Circuit Simulation, Technical Documentation
+
 ---
 
 ## Features
