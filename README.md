@@ -42,13 +42,15 @@
 - 16x2 LCD Display
 - 1k and 10k resistors
 - Push button
-- Jumper Wires 
+- Jumper Wires
+  
+[Download Raw Data CSV](data/bom.csv)
 
 ---
 
 ## Circuit Diagram
 Schematic for the project : 
-![Schematic](assets/schematic.pdf)
+![Schematic](assets/Schematic.pdf)
 
 ## Plots
 Table plot :
